@@ -14,7 +14,8 @@ the forests of the northeast. In addition to carbon already stored, each year, f
 ### Soils are the largest pool of carbon in northeastern forests, followed by aboveground biomass.
 Harvesting impacts the size, growth and stability of each of these pools. Soil carbon losses following harvest can be significant, and are rarely accounted for in considering the impacts of harvesting on carbon balance [(Nave et al. 2010,](https://doi.org/10.1016/j.foreco.2009.12.009) [James et al. 2016)](https://doi.org/10.3390/f7120308).
 
-![Alt Text](POOLS.jpg)
+<iframe title="" aria-label="chart" id="datawrapper-chart-x5VRx" src="https://datawrapper.dwcdn.net/x5VRx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ***
 ### Left undisturbed, Northeastern forests will continue to sequester carbon as they mature.

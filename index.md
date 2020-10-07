@@ -32,10 +32,11 @@ Losses in carbon stocks following harvest are not compensated by new growth. In 
 
 ### Current removals already consume a large proportion of net forest growth.
  
-![Alt Text](PROPORTIONS.jpg)
+<iframe title="New York Forest Growth " aria-label="Bar Chart" id="datawrapper-chart-Iioi2" src="https://datawrapper.dwcdn.net/Iioi2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="262"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 Shifts in agricultural activities, land development and forest management have allowed northeastern forests to recover and allow for them to continue to provide valuable ecosystem services. Preserving these functions requires preventing overharvesting of these lands. Despite their important functions, only 6% of forestland in the northeastern
 U.S. is legally preserved from harvest [(Buccholz et al. 2011).](https://forestindustries.eu/sites/default/files/userfiles/1file/report_biomass_2011.pdf) The majority of this protected area is in the Adirondack and Catskill mountain ranges in New York state.
 
 Instead of protecting forestland, current policies provide financial incentives to promote periodic harvests, including tax breaks for the development of forest management
-plans to produce and harvest forest crops. While logging efforts do not consume a large proportion of the landscape, these removals represent a large proportion of net growth, which is the change in biomass that remains following natural mortality. Removals from logging were about 49% of net growth in New York state, and 99% of net growth in Connecticut [(Buccholz et al. 2011).](https://forestindustries.eu/sites/default/files/userfiles/1file/report_biomass_2011.pdf)
+plans to produce and harvest forest crops. While logging efforts do not consume a large proportion of the landscape, these removals represent a large proportion of net growth, which is the change in biomass that remains following natural mortality. Removals from logging are over 50% of net growth in New York state [(Buccholz et al. 2011,](https://forestindustries.eu/sites/default/files/userfiles/1file/report_biomass_2011.pdf) [USDA FS FIA.](https://public.tableau.com/views/FIA_OneClick_V1_2/Factsheet?%3AshowVizHome=no)

@@ -1,4 +1,4 @@
-# KEEPING NORTHEASTERN FORESTS INTACT IS CRITICAL FOR CLIMATE 
+# KEEPING NEW YORK FORESTS INTACT IS CRITICAL FOR CLIMATE 
 
 ### New York forests provide key ecosystem services.
 A diverse mix of hardwood and coniferous trees cover nearly two-thirds of the northeastern U.S. [(Birdsey et al. 2006)](https://doi.org/10.2134/jeq2005.0162), capturing and storing vast quantities of carbon through photosynthesis. These ecosystems provide critical habitat for wildlife, including refuge for several endangered and threatened species. Belowground, soil bacteria and fungi in these forests recycle nutrients and play a role in the stabilization of large stocks of carbon. New York has over 18.6 million acres of forested land and 11.5 billion trees [(USDA FS FIA 2019).](https://www.fs.fed.us/nrs/pubs/ru/ru_fs250.pdf). On average, each year 246,00 acres of forested land in New York are thinned or harvested, and an additional 65,000 acres are converted to non-forest land uses.    
